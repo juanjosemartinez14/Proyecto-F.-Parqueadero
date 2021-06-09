@@ -1,0 +1,17 @@
+Cantidad de vehículos por tipo de usuario:
+Estudiante: 6 vehiculos
+Profesor: 10 vehiculos
+Personal Administrativo: 9 vehiculos
+Visitante: 24 vehiculos
+Cantidad de vehículos por tipo de vehículo:
+Automóvil: 20
+Automóvil Eléctrico: 2
+Motocicleta: 2
+Discapacitado: 3
+Porcentaje global: 4.91%
+Piso1: 1.0%
+Piso2: 1.0%
+Piso3: 1.0%
+Piso4: 3.0%
+Piso5: 13.0%
+Piso6: 16.0%
